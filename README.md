@@ -2,7 +2,7 @@
 
 Measuring associations between categorical variables using Dython — because Pearson doesn't work on "yes" and "no."
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wsamuelw/dython-demo/blob/main/dython_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wsamuelw/dython/blob/main/dython_demo.ipynb)
 
 ## Problem
 
@@ -36,8 +36,8 @@ Click the badge above.
 
 ```bash
 pip install dython pandas
-git clone https://github.com/wsamuelw/dython-demo.git
-cd dython-demo
+git clone https://github.com/wsamuelw/dython.git
+cd dython
 jupyter notebook dython_demo.ipynb
 ```
 
